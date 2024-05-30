@@ -114,7 +114,7 @@ int main() {
         cout << "4. Exit" << endl;
         cout << "Enter your choice (1-4): " << endl;
         cin >> ch;
-        cout >> endl
+        cout << endl;
     }
    } 
 }
